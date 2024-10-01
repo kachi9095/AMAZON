@@ -1,0 +1,54 @@
+body{
+    margin: auto;
+    
+}
+/*************************************************************class section*************************************************************************/
+.submit{
+    width: 10px;
+    height: 10px;
+}
+.middle{
+    border: 10px;
+    display:contents;
+}
+.submit{
+    height: 60px;
+    width: 100px;
+    margin-left: 9px;
+    margin-top: 1px;
+}
+.top-edit2{
+    text-align: left;
+}
+.shop-image{
+    height: 50px;
+    width: 50px;   
+}
+.crop{
+    width: 500px;
+    height: 400px;
+    
+}
+
+
+
+
+
+/*******************************************************************id section**********************************************************************/
+#top{
+    background-color: turquoise;
+    height: 100px;
+    border: 2px;
+    margin-bottom: 50px;
+
+}
+#h1{
+    margin-top: 0;
+    color: yellow;
+    text-align: center;
+}
+#sharp{
+    height: 60px;
+    width: 100px;
+    margin-left: 10px;
+}
